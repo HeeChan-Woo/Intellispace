@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="252" height="88" viewBox="0 0 252 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="stroke0_0_19" fill="white">
+<path d="M252 44C252 68.3005 195.588 88 126 88C56.4121 88 0 68.3005 0 44C0 19.6995 56.4121 0 126 0C195.588 0 252 19.6995 252 44Z"/>
+</mask>
+<path id="Mobile intelligence orbit" d="M252 44C252 68.3005 195.588 88 126 88C56.4121 88 0 68.3005 0 44C0 19.6995 56.4121 0 126 0C195.588 0 252 19.6995 252 44Z" stroke-width="2" stroke="#8C929B" stroke-opacity="0.35" mask="url(#stroke0_0_19)"/>
+</svg>

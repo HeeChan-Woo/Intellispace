@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="440" height="192" viewBox="0 0 440 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="stroke0_0_24" fill="white">
+<path d="M440 96C440 149.019 341.503 192 220 192C98.4974 192 0 149.019 0 96C0 42.9807 98.4974 0 220 0C341.503 0 440 42.9807 440 96Z"/>
+</mask>
+<path id="Ring / trajectory 1" d="M440 96C440 149.019 341.503 192 220 192C98.4974 192 0 149.019 0 96C0 42.9807 98.4974 0 220 0C341.503 0 440 42.9807 440 96Z" stroke-width="2" stroke="#9297A0" stroke-opacity="0.45" mask="url(#stroke0_0_24)"/>
+</svg>
